@@ -15,6 +15,7 @@ This project is an implementation of Conway's Game of Life in Java, complete wit
 # 1. Clone the Repository
 
 git clone https://github.com/yourusername/ConwaysGameOfLife.git
+
 cd ConwaysGameOfLife/src
 
 # 2. Compile the Java Files
