@@ -16,13 +16,14 @@ This project is an implementation of Conway's Game of Life in Java, complete wit
 
 git clone https://github.com/yourusername/ConwaysGameOfLife.git
 
+# 2. Go to Source Folder
 cd ConwaysGameOfLife/src
 
-# 2. Compile the Java Files
+# 3. Compile the Java Files
 
 javac *.java
 
-# 3. Run the Visualization
+# 4. Run the Visualization
 
 java GameOfLifeVisualization
 
